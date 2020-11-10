@@ -1,6 +1,0 @@
-{
-  "navigationBarTitleText": "xcw-number",
-  "usingComponents": {
-    "xcw-number": "/components/xcw-number/xcw-number"
-  }
-}
