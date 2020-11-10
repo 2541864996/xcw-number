@@ -1,0 +1,49 @@
+
+.main{
+	display: block; 
+	margin: 5px;
+}
+.minus{
+	position: absolute;
+	left: 0;
+	height:100%;
+	border-right: 1px solid #dcdfe6;
+	height: 100%;
+	text-align: center;
+	vertical-align:middle;
+}
+.plus{
+	position: absolute;
+	right: 0;
+	height:100%;
+	overflow: hidden;
+	display:inline-block;
+	border-left: 1px solid #dcdfe6;
+	text-align: center;
+	height: 100%;
+	vertical-align:middle;
+}
+.interior{
+	height:100%;
+	display:inline-block;
+	text-align: center;
+	height: 100%;
+	vertical-align:middle;
+}
+.boder{
+	border-radius: 4px;
+	border: 1px solid #dcdfe6;
+	height: 100%;
+	position:relative;
+}
+.value-font{
+	font-size:25rpx;
+	font-family:"\5FAE\8F6F\96C5\9ED1","\9ED1\4F53","\5B8B\4F53";
+}
+input{
+	overflow: inherit;
+}
+.disabled {
+	color: #c0c0c0;
+}
+
